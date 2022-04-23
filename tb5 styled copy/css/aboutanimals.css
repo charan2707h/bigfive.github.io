@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+
+table{
+    border: 1px solid #10a6c0;
+    width: 100%;
+    text-align: center;
+}
+
+thead th{
+    border-bottom: 1px solid #111111;
+    border-right: 1px solid #111111;
+    border-left: 1px solid #111111;
+}
+
+tbody td{
+    border-right: 1px solid #10a6c0;
+    border-left: 1px solid #10a6c0;
+}
+
+tbody td{
+    border-bottom: 1px solid #10a6c0;
+}
